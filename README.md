@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Rennan Oliveira, e sou estudante de Analise e desenvolvimento de Sistemas🖐️
+### Olá! Eu sou o Rennan Oliveira e sou estudante de Analise e desenvolvimento de Sistemas🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rennan-oliveira-bb9402202/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rennan_oliv/)
