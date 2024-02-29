@@ -1,17 +1,11 @@
 
-### Olá! Me chamo Rennan Oliveira e sou estudante de Analise e desenvolvimento de Sistemas🖐️
+### Olá! Me chamo Rennan Oliveira e sou Formado em Analise e Desenvlvimento de Sistemas🖐️
+
+Sou desenvolvedor Backend Java jr e estou adquirindo experiencia e conhecimento em Desenvolvimento Frontend com TypeScript + Angular!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rennan-oliveira-bb9402202/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rennan_oliv/)
 
 ![Rennan GitHub stats](https://github-readme-stats.vercel.app/api?username=Rennoi123&show_icons=true&theme=dracula)
-
-## Tecnologias que estou estudando!
-
-<div style ="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</div><br/>
 
 Apaixonado por tecnologia e por conhecimento. 
